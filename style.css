@@ -1,0 +1,76 @@
+body {
+    background-color: darkolivegreen;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.texto-centrado {
+    text-align: center;
+} 
+
+.texto-izquierda{
+    text-align: left;
+}
+
+.listaestilo{
+    list-style: disc;
+   
+}
+
+p{
+    text-align: center justify;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1, h2, h5 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style:none ;
+    padding: 0;
+
+   
+}
+
+ul .sucu{
+    list-style: none;
+}
+
+
+
+li {
+    margin: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    
+}
+
+.imagen {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    max-width: 40%;
+}
+
+.sucu{
+    border: 10px solid #8a3f3f;
+    width: 250px;
+    height: auto;
+}
+
+.flor{
+    border: 10px solid #8a3f3f;
+    width: 250px;
+    height: auto;
+}
+
+a{
+    color: aliceblue;
+}
