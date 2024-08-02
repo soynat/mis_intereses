@@ -5,10 +5,10 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto Desplegado (https://mis-intereses-xi.vercel.app/)](https://mis-intereses-xi.vercel.app/)
 ## Secciones de mi sitio
 
-![La Belleza de México: Suculentas y Flores](assets\readme\In1.png)
+![La Belleza de México: Suculentas y Flores](assets/Readme/In1.png)
 
-![La Belleza de México: Suculentas y Flores](assets\readme\In2.png)
-![La Belleza de México: Suculentas y Flores](assets\readme\In3.png)
+![La Belleza de México: Suculentas y Flores](assets/Readme/In2.png)
+![La Belleza de México: Suculentas y Flores](assets/Readme/In3.png)
 
 
 ## Tecnologías
